@@ -17,4 +17,4 @@
 > my [csdn blog](http://blog.csdn.net/lin_credible).
 
 > 如果觉得内容对您有帮助，可以支持下，感恩。
-<img height="233" alt="#mambaforever" src="img/money.jpg" />
+<img height="233" alt="#colin" src="img/money.jpg" />
