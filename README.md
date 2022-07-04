@@ -15,6 +15,3 @@
     - [服务网格 Istio 初探](./blog/istio_start.md)
 
 > my [csdn blog](http://blog.csdn.net/lin_credible).
-
-> 如果觉得内容对您有帮助，可以支持下，感恩。
-![mmm](img/money.jpg)
